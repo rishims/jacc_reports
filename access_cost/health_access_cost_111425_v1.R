@@ -298,7 +298,7 @@ figure2 <- pA_fig2 / pB_fig2
 ggsave('fig1_access_overall_111325_v1.pdf', figure1, device = pdf, width = 10, height = 8)
 ggsave('fig1_cost_overall_111325_v1.pdf', figure2, device = pdf, width = 10, height = 8)
 
-# figure 2: access and affordability by race
+# figure 2: access and affordability by race and income among those with ASCVD
 # exclude NH Other due to low counts
 df <- df %>%
   filter(race_simple != "NH Other")

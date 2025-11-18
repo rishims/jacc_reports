@@ -1,4 +1,4 @@
-# Trends in Health Access, Affordability, and Utilization among US Adults, 2019-2024
+# Trends in Healthcare Access, Affordability, and Utilization among US Adults, 2019-2024
 # Rishi M. Shah
 # 04 November 2025
 
